@@ -1,0 +1,13 @@
+
+img {max-width : 100% ; height : auto ;}
+
+/*スマホ用画面*/
+body{
+    background-color: blue;
+}
+
+/*タブレット用*/
+@media screen and (min-width:768px){
+
+    
+}
