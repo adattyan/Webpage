@@ -8,6 +8,14 @@ body{
 
 /*タブレット用*/
 @media screen and (min-width:768px){
+    body{
+        background-color: red;
+    }
+}
 
-    
+/*PC用*/
+@media screen and (min-width:1024px){
+    body{
+        background-color: yellow;
+    }
 }
